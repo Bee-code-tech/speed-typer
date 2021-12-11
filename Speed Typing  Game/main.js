@@ -10,7 +10,7 @@ const difficultySelect = document.getElementById('difficulty');
 // Game word list 
 const words = [
   'sigh','tense','airplane','ball','pies','juice','walnut','bad','north','south','east', 'west','dependent','cause','steer','silver', 'gold', 'bronze','highfalutin','superficial','quince','eight', 'feeble', 'admit', 'drag', 'loving', 'tomfadd', 'beejay', 'linux', 'nannoy', 'vitech', 'transformers','yuppy','jasmine','poignant','graphics',
-  'forex', 'crypto','blockchain', 'architecture', 'surveyor', 'crocks', 'deborah','tensorflow', 'emmanuel','dart','gatsby','javascript','css','length'
+  'forex', 'crypto','blockchain', 'architecture', 'surveyor', 'crocks', 'deborah','tensorflow', 'emmanuel','dart','gatsby','javascript','css','length', 'credentials',
   ];
   
   // Initialize random words
